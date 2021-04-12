@@ -8,14 +8,14 @@
 
             @foreach (var emp in Model)
             {
-        <div class="col-3">
+        <div class="col-4">
             <div class="card m-4">
-                <div class="card" style="background-color:burlywood">
+                <div class="card-header" style="background-color:burlywood">
                     <h4> @emp.Name</h4>
                 </div>
                 <img class="card-img-top" src="~/Images/employee.jpg" />
                 <div class="card-footer text-center">
-                    <a href="~/Employee/@emp.Id" class="btn btn-primary">View</a>
+                    <a asp-controller="Employee" asp-action="EmployeeById" asp-route-Id="@emp.Id" class="btn btn-primary">View</a>
                     <a href="#" class="btn btn-primary">Update</a>
                     <a href="#" class="btn btn-danger">Delete</a>
                 </div>

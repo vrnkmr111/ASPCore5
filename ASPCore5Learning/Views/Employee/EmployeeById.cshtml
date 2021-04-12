@@ -4,9 +4,18 @@
 }
 
 <h4> Hello, Welcome to @Model.Name's Details  </h4>
-<div class="table-primary card card-header" >
- <h5 style="color:indianred">Employee Name: @Model.Name</h5>
- <h5 style="color:darkseagreen">Salary: @Model.Salary</h5>
- </div>
+<div class="col-8">
+    <div class="card m-8">
+        <div class="card" style="background-color:burlywood">
+            <h4> @Model.Name</h4>
+        </div>
+        <img class="card-img-top" src="~/Images/employee.jpg" />
+        <div class="card-footer text-center">
+            <a asp-controller="Employee" asp-action="Employees" class="btn btn-primary">Back</a>
+            <a href="#" class="btn btn-primary">Update</a>
+            <a href="#" class="btn btn-danger">Delete</a>
+        </div>
+    </div>
+</div>
 
 
