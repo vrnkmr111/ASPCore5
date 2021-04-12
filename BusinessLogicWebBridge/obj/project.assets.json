@@ -214,19 +214,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\varun\\.nuget\\packages\\": {}
+    "C:\\Users\\varunk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS19Projects\\ASPCore5Learning\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
+      "projectUniqueName": "D:\\VS2019Projects\\ASPCore5\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
       "projectName": "BusinessLogicWebBridge",
-      "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
-      "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
-      "outputPath": "D:\\VS19Projects\\ASPCore5Learning\\BusinessLogicWebBridge\\obj\\",
+      "projectPath": "D:\\VS2019Projects\\ASPCore5\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
+      "packagesPath": "C:\\Users\\varunk\\.nuget\\packages\\",
+      "outputPath": "D:\\VS2019Projects\\ASPCore5\\BusinessLogicWebBridge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\varun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\varunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -240,8 +240,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\VS19Projects\\ASPCore5Learning\\DataRepository\\DataRepository.csproj": {
-              "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\DataRepository\\DataRepository.csproj"
+            "D:\\VS2019Projects\\ASPCore5\\DataRepository\\DataRepository.csproj": {
+              "projectPath": "D:\\VS2019Projects\\ASPCore5\\DataRepository\\DataRepository.csproj"
             }
           }
         }
@@ -273,7 +273,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
