@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPCore5Learning", "ASPCore5Learning\ASPCore5Learning.csproj", "{A9ACABC5-8E1B-4A08-BD1D-BCA6963E176F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicWebBridge", "BusinessLogicWebBridge\BusinessLogicWebBridge.csproj", "{BCDE02DC-E6C2-4F40-8A45-4BF3F3F251BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicWebBridge", "BusinessLogicWebBridge\BusinessLogicWebBridge.csproj", "{BCDE02DC-E6C2-4F40-8A45-4BF3F3F251BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{11C12DCC-C72C-4986-B4C5-D50B9391EDE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{11C12DCC-C72C-4986-B4C5-D50B9391EDE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataRepository", "DataRepository\DataRepository.csproj", "{839FDCF0-0C04-496D-898D-FA341BB160D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository", "DataRepository\DataRepository.csproj", "{839FDCF0-0C04-496D-898D-FA341BB160D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPCore5Learning", "ASPCore5Learning\ASPCore5Learning.csproj", "{60C85596-3ABF-46A2-8D54-ABB80F379F19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9ACABC5-8E1B-4A08-BD1D-BCA6963E176F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9ACABC5-8E1B-4A08-BD1D-BCA6963E176F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9ACABC5-8E1B-4A08-BD1D-BCA6963E176F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9ACABC5-8E1B-4A08-BD1D-BCA6963E176F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCDE02DC-E6C2-4F40-8A45-4BF3F3F251BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BCDE02DC-E6C2-4F40-8A45-4BF3F3F251BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCDE02DC-E6C2-4F40-8A45-4BF3F3F251BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{839FDCF0-0C04-496D-898D-FA341BB160D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{839FDCF0-0C04-496D-898D-FA341BB160D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{839FDCF0-0C04-496D-898D-FA341BB160D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

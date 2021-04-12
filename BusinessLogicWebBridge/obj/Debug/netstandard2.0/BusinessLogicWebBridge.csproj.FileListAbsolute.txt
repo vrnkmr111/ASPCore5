@@ -26,3 +26,17 @@ D:\VS2019Projects\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\Busin
 D:\VS2019Projects\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.csproj.CopyComplete
 D:\VS2019Projects\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.dll
 D:\VS2019Projects\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.pdb
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\BusinessLogicWebBridge.deps.json
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\BusinessLogicWebBridge.dll
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\BusinessLogicWebBridge.pdb
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\DataRepository.dll
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\Entities.dll
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\DataRepository.pdb
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\bin\Debug\netstandard2.0\Entities.pdb
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.csprojAssemblyReference.cache
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.AssemblyInfoInputs.cache
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.AssemblyInfo.cs
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.csproj.CoreCompileInputs.cache
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.csproj.CopyComplete
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.dll
+D:\VS19Projects\ASPCore5Learning\ASPCore5\BusinessLogicWebBridge\obj\Debug\netstandard2.0\BusinessLogicWebBridge.pdb
