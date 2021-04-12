@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entiti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataRepository", "DataRepository\DataRepository.csproj", "{839FDCF0-0C04-496D-898D-FA341BB160D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPCore5Learning", "ASPCore5Learning\ASPCore5Learning.csproj", "{60C85596-3ABF-46A2-8D54-ABB80F379F19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPCore5Learning", "ASPCore5Learning\ASPCore5Learning.csproj", "{B343E6BE-2C4E-4AF7-8748-3EDC593BDA6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{839FDCF0-0C04-496D-898D-FA341BB160D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{839FDCF0-0C04-496D-898D-FA341BB160D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{839FDCF0-0C04-496D-898D-FA341BB160D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60C85596-3ABF-46A2-8D54-ABB80F379F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B343E6BE-2C4E-4AF7-8748-3EDC593BDA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B343E6BE-2C4E-4AF7-8748-3EDC593BDA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B343E6BE-2C4E-4AF7-8748-3EDC593BDA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B343E6BE-2C4E-4AF7-8748-3EDC593BDA6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
