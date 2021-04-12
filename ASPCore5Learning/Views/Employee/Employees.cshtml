@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Entities.Employee>
+@{
+    ViewData["Title"] = "Employees";
+}
+
+
+    <div class="card-deck">
+
+            @foreach (var emp in Model)
+            {
+        <div class="col-3">
+            <div class="card m-4">
+                <div class="card" style="background-color:burlywood">
+                    <h4> @emp.Name</h4>
+                </div>
+                <img class="card-img-top" src="~/Images/employee.jpg" />
+                <div class="card-footer text-center">
+                    <a href="~/Employee/@emp.Id" class="btn btn-primary">View</a>
+                    <a href="#" class="btn btn-primary">Update</a>
+                    <a href="#" class="btn btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+                
+            }
+
+    </div>
+
