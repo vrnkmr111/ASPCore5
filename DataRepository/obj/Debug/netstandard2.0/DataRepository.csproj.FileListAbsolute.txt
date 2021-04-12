@@ -1,0 +1,12 @@
+D:\VS19Projects\ASPCore5Learning\DataRepository\bin\Debug\netstandard2.0\DataRepository.deps.json
+D:\VS19Projects\ASPCore5Learning\DataRepository\bin\Debug\netstandard2.0\DataRepository.dll
+D:\VS19Projects\ASPCore5Learning\DataRepository\bin\Debug\netstandard2.0\DataRepository.pdb
+D:\VS19Projects\ASPCore5Learning\DataRepository\bin\Debug\netstandard2.0\Entities.dll
+D:\VS19Projects\ASPCore5Learning\DataRepository\bin\Debug\netstandard2.0\Entities.pdb
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.csprojAssemblyReference.cache
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.AssemblyInfoInputs.cache
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.AssemblyInfo.cs
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.csproj.CoreCompileInputs.cache
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.csproj.CopyComplete
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.dll
+D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.pdb
