@@ -10,3 +10,15 @@ D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRep
 D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.csproj.CopyComplete
 D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.dll
 D:\VS19Projects\ASPCore5Learning\DataRepository\obj\Debug\netstandard2.0\DataRepository.pdb
+D:\VS2019Projects\ASPCore5\DataRepository\bin\Debug\netstandard2.0\DataRepository.deps.json
+D:\VS2019Projects\ASPCore5\DataRepository\bin\Debug\netstandard2.0\DataRepository.dll
+D:\VS2019Projects\ASPCore5\DataRepository\bin\Debug\netstandard2.0\DataRepository.pdb
+D:\VS2019Projects\ASPCore5\DataRepository\bin\Debug\netstandard2.0\Entities.dll
+D:\VS2019Projects\ASPCore5\DataRepository\bin\Debug\netstandard2.0\Entities.pdb
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.csprojAssemblyReference.cache
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.AssemblyInfoInputs.cache
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.AssemblyInfo.cs
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.csproj.CoreCompileInputs.cache
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.csproj.CopyComplete
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.dll
+D:\VS2019Projects\ASPCore5\DataRepository\obj\Debug\netstandard2.0\DataRepository.pdb
