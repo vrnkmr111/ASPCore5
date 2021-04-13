@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\DataRepository\\DataRepository.csproj": {}
+    "D:\\VS2019Projects\\ASPCore5\\DataRepository\\DataRepository.csproj": {}
   },
   "projects": {
-    "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\DataRepository\\DataRepository.csproj": {
+    "D:\\VS2019Projects\\ASPCore5\\DataRepository\\DataRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\DataRepository\\DataRepository.csproj",
+        "projectUniqueName": "D:\\VS2019Projects\\ASPCore5\\DataRepository\\DataRepository.csproj",
         "projectName": "DataRepository",
-        "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\DataRepository\\DataRepository.csproj",
-        "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
-        "outputPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\DataRepository\\obj\\",
+        "projectPath": "D:\\VS2019Projects\\ASPCore5\\DataRepository\\DataRepository.csproj",
+        "packagesPath": "C:\\Users\\varunk\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Projects\\ASPCore5\\DataRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\varun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\varunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj"
+              "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj"
               }
             }
           }
@@ -61,21 +61,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj": {
+    "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
-        "outputPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\obj\\",
+        "projectPath": "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\varunk\\.nuget\\packages\\",
+        "outputPath": "D:\\VS2019Projects\\ASPCore5\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\varun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\varunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
