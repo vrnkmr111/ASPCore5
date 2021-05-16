@@ -18,15 +18,15 @@ namespace DataRepository
         {
             employeeList = new List<Employee>()
             {
-                new Employee { Id = 1, Name = "Varun", Salary = 60000},
-                new Employee { Id = 2, Name = "XYZ", Salary = 50000},
-                new Employee { Id = 3, Name = "ABC", Salary = 50000},
-                new Employee{ Id = 4, Name = "asd", Salary = 60000},
-                new Employee { Id = 5, Name = "XadsYZ", Salary = 50000},
-                new Employee { Id = 6, Name = "AdfdfBC", Salary = 50000},
-                new Employee{ Id = 7, Name = "Vfdfdfarun", Salary = 60000},
-                new Employee { Id = 8, Name = "dsdsd", Salary = 50000},
-                new Employee { Id = 9, Name = "ArtrtrBC", Salary = 50000}
+                new Employee { Id = 1, Name = "Varun", Salary = 60000, Group ="A"},
+                new Employee { Id = 2, Name = "XYZ", Salary = 50000, Group ="D"},
+                new Employee { Id = 3, Name = "ABC", Salary = 50000, Group ="C"},
+                new Employee{ Id = 4, Name = "asd", Salary = 60000, Group ="B"},
+                new Employee { Id = 5, Name = "XadsYZ", Salary = 50000, Group ="A"},
+                new Employee { Id = 6, Name = "AdfdfBC", Salary = 50000, Group ="D"},
+                new Employee{ Id = 7, Name = "Vfdfdfarun", Salary = 60000, Group ="C"},
+                new Employee { Id = 8, Name = "dsdsd", Salary = 50000, Group ="B"},
+                new Employee { Id = 9, Name = "ArtrtrBC", Salary = 50000, Group ="A"}
             };
             return employeeList;
         }

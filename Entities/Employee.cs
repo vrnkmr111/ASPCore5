@@ -10,5 +10,7 @@ namespace Entities
         public string Name { get; set; }
         public int Salary { get; set; }
 
+        public string Group { get; set; }
+
     }
 }

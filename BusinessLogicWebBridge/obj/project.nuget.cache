@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "I4RP6gkaYNAQZixoQaQ9094T4h9WW01zlP5AesbdMktS7MbVzdrJEdCOn8+C/Izgr6VpBuTAAbImjQob0Y0iUQ==",
+  "dgSpecHash": "k15AhqG+F43U/TER7gOfhtwFHKd2imaRRiiLMpV+gIvHDZLkRGuMRTYSSufTZRNwgW6JPHX9pryiDuUpEFxejg==",
   "success": true,
   "projectFilePath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\varun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\varun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Varun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Varun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

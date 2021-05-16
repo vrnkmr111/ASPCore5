@@ -214,7 +214,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\varun\\.nuget\\packages\\": {}
+    "C:\\Users\\Varun\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -222,11 +222,11 @@
       "projectUniqueName": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
       "projectName": "BusinessLogicWebBridge",
       "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\BusinessLogicWebBridge\\BusinessLogicWebBridge.csproj",
-      "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Varun\\.nuget\\packages\\",
       "outputPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\BusinessLogicWebBridge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\varun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Varun\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -273,7 +273,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
