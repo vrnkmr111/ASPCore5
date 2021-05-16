@@ -1,11 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "bZIyCR9gaIebZQpC6pA+X9/i/nY74TxIAMhvOwv2Y5XoTUD9GM1wfgwwLilx9+FWteAxvdks+3WxRNOYxCU/JQ==",
+=======
+  "dgSpecHash": "l+RU5ssN6iIfz8TLYnHBHtB+Q9RYbE5DaJc22KQiyDq+EkJjqYev0xFgdpGBMTrT3yEZqqM314zTqK27ET6HjQ==",
+>>>>>>> 8821f6d7a9e108c3234bc7ee5562ac185ce24178
   "success": true,
-  "projectFilePath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\Varun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Varun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+=======
+    "C:\\Users\\varunk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\varunk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+>>>>>>> 8821f6d7a9e108c3234bc7ee5562ac185ce24178
   ],
   "logs": []
 }
