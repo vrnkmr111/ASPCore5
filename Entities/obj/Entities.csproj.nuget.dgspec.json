@@ -1,29 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj": {}
+    "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj": {
+    "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj",
         "projectName": "Entities",
-<<<<<<< HEAD
         "projectPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Varun\\.nuget\\packages\\",
         "outputPath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Varun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "projectPath": "D:\\VS2019Projects\\ASPCore5\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\varunk\\.nuget\\packages\\",
-        "outputPath": "D:\\VS2019Projects\\ASPCore5\\Entities\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\varunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 8821f6d7a9e108c3234bc7ee5562ac185ce24178
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,11 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
->>>>>>> 8821f6d7a9e108c3234bc7ee5562ac185ce24178
         }
       }
     }
