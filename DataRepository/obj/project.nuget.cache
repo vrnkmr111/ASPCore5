@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBALJMM7rZr8yRYLwLPhGZyQ7epEGW1o8rFKHei35m/aNS1f6pmcaiF7zRKFa5X0AnYSGp3nwsZm5FxepVWDNA==",
+  "success": true,
+  "projectFilePath": "D:\\VS19Projects\\ASPCore5Learning\\ASPCore5\\DataRepository\\DataRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Varun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
